@@ -1,7 +1,4 @@
-# Here is Bert model with keras 
-# I tried to train it but i got high val loss 
-# i don't know if it works or not as i train it on my cpu core i7-6700
-# But what I know that it Should work
+
 
 from keras.api.layers import MultiHeadAttention, Embedding, Dense, Dropout, LayerNormalization, TextVectorization
 from keras.api.models import Model
